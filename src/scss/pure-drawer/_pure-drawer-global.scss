@@ -178,6 +178,7 @@ body {
 	}
 	.pure-toggle-icon:before, .pure-toggle-icon:after {
 	  	top: 0;
+      background: $toggler-checked-color;
 	}
 	.pure-toggle-icon:before {
 	  	transform: translateX(-50%) rotate(45deg);
